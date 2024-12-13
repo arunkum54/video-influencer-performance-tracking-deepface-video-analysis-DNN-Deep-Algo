@@ -35,4 +35,4 @@ The system will process the video and provide performance metrics, including fac
 
 For any questions or support, feel free to reach out to me at:
 
-Email: arunkumarrana@example.com
+Email: arunkumarrana754@gmail.com
